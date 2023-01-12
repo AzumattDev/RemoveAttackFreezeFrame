@@ -1,0 +1,9 @@
+﻿{
+  "name": "RemoveAttackFreezeFrame",
+  "version_number": "1.0.0",
+  "website_url": "https://discord.gg/pdHgy6Bsng",
+  "description": "Removes the slight frame freeze when attacking with a melee weapon. Vanilla behavior is a 0.15 second freeze. This mod reduces it to 0.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.1901"
+  ]
+}
