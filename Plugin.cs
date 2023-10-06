@@ -12,7 +12,7 @@ namespace RemoveAttackFreezeFrame
     public class RemoveAttackFreezeFramePlugin : BaseUnityPlugin
     {
         internal const string ModName = "RemoveAttackFreezeFrame";
-        internal const string ModVersion = "1.0.0";
+        internal const string ModVersion = "1.0.1";
         internal const string Author = "Azumatt";
         private const string ModGUID = Author + "." + ModName;
         private readonly Harmony _harmony = new(ModGUID);
